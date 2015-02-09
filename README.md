@@ -5,7 +5,7 @@ Live Reload Ready
 Just run:
 
 ```bash
-npm init
+npm install
 ````
 
 after that, run the followint to get your server started
