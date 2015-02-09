@@ -1,6 +1,6 @@
 # Basic-HTML-JS-CSS
 
-Live Reload Ready
+### Live Reload Ready
 
 Just run:
 
@@ -8,7 +8,7 @@ Just run:
 npm install
 ````
 
-after that, run the followint to get your server started
+after that, run the following code to get your server started
 
 ```bash
 grunt server
